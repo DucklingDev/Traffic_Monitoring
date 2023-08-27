@@ -10,7 +10,7 @@ pip3 install psutil
 
 运行脚本
 ```shell
-python3 a
+python3 a.py
 ```
 
 
